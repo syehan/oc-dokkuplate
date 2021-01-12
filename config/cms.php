@@ -127,7 +127,7 @@ return [
     |
     */
 
-    'disablePlugins' => [],
+    'disablePlugins' => explode(',', env('DISABLED_PLUGINS')),
 
     /*
     |--------------------------------------------------------------------------
