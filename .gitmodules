@@ -1,0 +1,6 @@
+[submodule "plugins/octobro/api"]
+	path = plugins/octobro/api
+	url = https://github.com/octobroid/oc-api-plugin.git
+[submodule "plugins/octobro/oauth2"]
+	path = plugins/octobro/oauth2
+	url = https://github.com/octobroid/oc-oauth2-plugin.git
