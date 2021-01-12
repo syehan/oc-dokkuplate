@@ -32,19 +32,19 @@
         "value": "mysql"
       },
       "DB_HOST": {
-        "value": "localhost"
+        "value": "ls-d73f409f14ad6439bf2cd1cef327da4440ec2a43.ctvkudxl4iis.ap-southeast-1.rds.amazonaws.com"
       },
       "DB_PORT": {
         "value": "3306"
       },
       "DB_DATABASE": {
-        "value": "october"
+        "value": "plate"
       },
       "DB_USERNAME": {
-        "value": "root"
+        "value": "dbmasteruser"
       },
       "DB_PASSWORD": {
-        "value": null
+        "value": "MJCCRFTe6+FYTCWe"
       },
 
       "FILESYSTEM_DRIVER": {
