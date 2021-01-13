@@ -96,8 +96,6 @@ class Plugin extends PluginBase
 
     public function registerSchedule($schedule)
     {
-        $schedule->call(function () {
-            traceLog('dokku schedule trigger ' . now()->format(' j-f-Y H:i:s'));
-        })->everyMinute();
+        
     }
 }
